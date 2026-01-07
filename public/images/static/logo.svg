@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40">
+  <rect fill="#2563eb" width="40" height="40" rx="8"/>
+  <text x="20" y="26" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white">USD</text>
+  <text x="80" y="26" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#1f2937">Reklam</text>
+</svg>

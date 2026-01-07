@@ -1,0 +1,504 @@
+[07-Jan-2026 03:21:28 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 03:24:03 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 03:27:05 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 03:29:57 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 03:35:15 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 03:35:19 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 03:35:20 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 03:35:21 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 03:35:42 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 03:37:35 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 03:38:47 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 03:38:53 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 03:38:57 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 03:40:07 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 03:45:11 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 03:53:55 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 03:53:55 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 03:53:56 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 03:53:58 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 04:01:35 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 04:01:36 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 04:01:43 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 04:05:01 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 04:05:12 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 04:07:59 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 04:07:59 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 04:10:11 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 04:10:14 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 04:10:24 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 04:10:27 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 04:57:33 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 04:58:38 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 05:26:24 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 05:26:27 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 05:44:16 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 05:44:18 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 05:44:58 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 05:45:01 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 05:56:46 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 05:56:46 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 05:56:47 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 05:56:47 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 06:28:48 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 08:03:32 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 08:03:36 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 09:45:17 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 09:48:48 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:05:17 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:27:18 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:27:21 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:39:27 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:39:30 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:39:38 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:39:38 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:39:38 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:40:11 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:40:13 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:40:13 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:40:13 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:40:14 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:40:19 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:40:21 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:40:23 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:40:25 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:40:27 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:41:03 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:41:30 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:46:22 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:46:22 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:46:22 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:46:27 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:46:44 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:46:54 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:49:21 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:49:21 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:49:21 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:51:18 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:55:55 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:55:59 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:56:02 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:57:12 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:57:14 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:57:41 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:57:48 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:57:48 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:57:48 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 11:58:29 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 12:29:24 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 12:32:58 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 12:32:58 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 12:32:58 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 12:33:50 Europe/Istanbul] PHP Fatal error:  Uncaught TypeError: Cannot assign Closure to property Router::$notFoundHandler of type string in /home/fircadan/deneme.fircadanders.com/core/Router.php:70
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/index.php(90): Router::notFound()
+#1 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 70
+[07-Jan-2026 12:40:10 Europe/Istanbul] PHP Parse error:  syntax error, unexpected token "`" in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 113
+[07-Jan-2026 12:40:38 Europe/Istanbul] PHP Parse error:  syntax error, unexpected token "`" in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 113
+[07-Jan-2026 12:40:47 Europe/Istanbul] PHP Parse error:  syntax error, unexpected token "`" in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 113
+[07-Jan-2026 12:41:58 Europe/Istanbul] PHP Parse error:  syntax error, unexpected token "`" in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 113
+[07-Jan-2026 12:42:34 Europe/Istanbul] PHP Parse error:  syntax error, unexpected token "`" in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 113
+[07-Jan-2026 12:42:53 Europe/Istanbul] PHP Parse error:  syntax error, unexpected token "`" in /home/fircadan/deneme.fircadanders.com/core/Router.php on line 113
+[07-Jan-2026 12:44:52 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method Router::isActive() in /home/fircadan/deneme.fircadanders.com/views/partials/header.php:85
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/views/layouts/main.php(26): include()
+#1 /home/fircadan/deneme.fircadanders.com/core/helpers.php(261): require('/home/fircadan/...')
+#2 /home/fircadan/deneme.fircadanders.com/controllers/HomeController.php(89): view()
+#3 /home/fircadan/deneme.fircadanders.com/core/Router.php(95): HomeController->index()
+#4 /home/fircadan/deneme.fircadanders.com/core/Router.php(67): Router->callHandler()
+#5 /home/fircadan/deneme.fircadanders.com/index.php(147): Router->dispatch()
+#6 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/views/partials/header.php on line 85
+[07-Jan-2026 12:45:37 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method Router::isActive() in /home/fircadan/deneme.fircadanders.com/views/partials/header.php:85
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/views/layouts/main.php(26): include()
+#1 /home/fircadan/deneme.fircadanders.com/core/helpers.php(253): include('/home/fircadan/...')
+#2 /home/fircadan/deneme.fircadanders.com/controllers/HomeController.php(89): view()
+#3 /home/fircadan/deneme.fircadanders.com/core/Router.php(95): HomeController->index()
+#4 /home/fircadan/deneme.fircadanders.com/core/Router.php(67): Router->callHandler()
+#5 /home/fircadan/deneme.fircadanders.com/index.php(147): Router->dispatch()
+#6 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/views/partials/header.php on line 85
+[07-Jan-2026 12:45:38 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method Router::isActive() in /home/fircadan/deneme.fircadanders.com/views/partials/header.php:85
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/views/layouts/main.php(26): include()
+#1 /home/fircadan/deneme.fircadanders.com/core/helpers.php(253): include('/home/fircadan/...')
+#2 /home/fircadan/deneme.fircadanders.com/controllers/HomeController.php(89): view()
+#3 /home/fircadan/deneme.fircadanders.com/core/Router.php(95): HomeController->index()
+#4 /home/fircadan/deneme.fircadanders.com/core/Router.php(67): Router->callHandler()
+#5 /home/fircadan/deneme.fircadanders.com/index.php(147): Router->dispatch()
+#6 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/views/partials/header.php on line 85
+[07-Jan-2026 12:46:47 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method Router::isActive() in /home/fircadan/deneme.fircadanders.com/views/partials/header.php:85
+Stack trace:
+#0 /home/fircadan/deneme.fircadanders.com/views/layouts/main.php(26): include()
+#1 /home/fircadan/deneme.fircadanders.com/core/helpers.php(253): include('/home/fircadan/...')
+#2 /home/fircadan/deneme.fircadanders.com/controllers/HomeController.php(89): view()
+#3 /home/fircadan/deneme.fircadanders.com/index-test.php(51): HomeController->index()
+#4 {main}
+  thrown in /home/fircadan/deneme.fircadanders.com/views/partials/header.php on line 85
